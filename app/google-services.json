@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995890491201",
+    "firebase_url": "https://workingfirebasekotlin.firebaseio.com",
+    "project_id": "workingfirebasekotlin",
+    "storage_bucket": "workingfirebasekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995890491201:android:6f97b98179e573a071fbc0",
+        "android_client_info": {
+          "package_name": "adam.illhaveacompany.workingfirebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995890491201-s2tpq3kj0orkq0psfvlo1ppuqv383vil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAABTAYBAgXRvKPUJQq1y110HkK58pKRoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995890491201-s2tpq3kj0orkq0psfvlo1ppuqv383vil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
